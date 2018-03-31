@@ -3,7 +3,7 @@ DNS Resolvers for bypassing basic DNS blocking systems, preserving your privacy 
 
 
 ## Google
-Hostnames: google-public-dns-a.google.com, google-public-dns-b.google.com
+Hostnames: google-public-dns-a.google.com, google-public-dns-b.google.com    
 For IPv4: 8.8.8.8, 8.8.4.4    
 For IPv6: 2001:4860:4860::8888, 2001:4860:4860::8844    
 A free, global DNS resolution service that you can use as an alternative to your current DNS provider.
@@ -20,6 +20,6 @@ No logging and privacy first according to their site.
 https://webcache.googleusercontent.com/search?q=cache:https://1.1.1.1/
 
 ## Quad9
-For IPv4: 9.9.9.9, 8.8.8.8
-Their privacy policy is absolutely no identifying data logging, period. Offering DNS over TLS. 
+For IPv4: 9.9.9.9, 8.8.8.8    
+Their privacy policy is absolutely no identifying data logging, period. Offering DNS over TLS.    
 Warning for non-US users: Any DNS-based CDNs will send you to an American node rather than your closest due to geoDNS configuration.
